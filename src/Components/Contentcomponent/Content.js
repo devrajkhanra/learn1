@@ -1,4 +1,3 @@
-import { useState } from "react"
 import React from 'react'
 import First from "./Firstcomponent/First"
 import Second from "./Secondcomponent/Second"
